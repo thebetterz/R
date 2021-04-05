@@ -142,10 +142,3 @@
   AnswerTests: coursera_on_demand()
   Hint: ""
 
-
-
-- Class: cmd_question
-  Output: Type your text output here.
-  CorrectAnswer: Expression or Value
-  AnswerTests: omnitest(correctExpr='EXPR', correctVal=VAL)
-  Hint: Type a hint.
